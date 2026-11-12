@@ -1,6 +1,6 @@
 # ═══════════════════════════════════════════════════════════════
-# main.py — LUCKY TCP  |  TCP BOT
-# © 2025 LUCKY TCP — All rights reserved
+# main.py — LALA DIGITAL  |  TCP BOT
+# © 2026 LALA DIGITAL — All rights reserved
 # ═══════════════════════════════════════════════════════════════
 
 import asyncio
@@ -75,18 +75,18 @@ def log(level, message):
 
 
 def print_banner():
-    """Display LUCKY TCP in large letters with brief information below."""
+    """Display LALA DIGITAL in large letters with brief information below."""
     os.system("clear")
     print()
-    print(render("LUCKY", colors=["red", "white"], align="center"))
-    print(render("TCP", colors=["yellow", "white"], align="center"))
+    print(render("LALA", colors=["red", "white"], align="center"))
+    print(render("DIGITAL", colors=["yellow", "white"], align="center"))
     print()
     print(f"\033[1;35m{'═' * 60}\033[0m")
     print(f"\033[1;33m{'TCP BOT  •  PREMIUM'.center(60)}\033[0m")
     print(f"\033[1;35m{'═' * 60}\033[0m")
     print(f"\033[1;37m{'EVO  •  TEAM  •  MATCH  •  ONLINE'.center(60)}\033[0m")
     print(f"\033[1;35m{'═' * 60}\033[0m")
-    print(f"\033[1;36m{'© LUCKY TCP PREMIUM'.center(60)}\033[0m")
+    print(f"\033[1;36m{'© LALA DIGITAL PREMIUM'.center(60)}\033[0m")
     print(f"\033[1;35m{'═' * 60}\033[0m")
     print()
 
@@ -154,8 +154,8 @@ async def MaiiiinE():
 
     # ── Display only your name in large letters ──
     print()
-    print(render("LUCKY", colors=["red", "white"], align="center"))
-    print(render("TCP", colors=["yellow", "white"], align="center"))
+    print(render("LALA", colors=["red", "white"], align="center"))
+    print(render("DIGITAL", colors=["yellow", "white"], align="center"))
     print()
     print(f"{PURPLE}{'═' * 60}{RESET}")
     print(f"\033[1;33m{'BOT ONLINE'.center(60)}\033[0m")
@@ -212,8 +212,8 @@ async def MaiiiinE():
 
     print()
     print(f"{PURPLE}{'═' * 60}{RESET}")
-    print(render("LUCKY", colors=["red", "white"], align="center"))
-    print(render("TCP", colors=["yellow", "white"], align="center"))
+    print(render("LALA", colors=["red", "white"], align="center"))
+    print(render("DIGITAL", colors=["yellow", "white"], align="center"))
     print(f"{PURPLE}{'═' * 60}{RESET}")
     print_line("Owner",   "MR LALA")
     print_line("Region",  result['region'])
